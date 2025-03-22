@@ -87,11 +87,11 @@ python app.py
 
 ## 📷 Screenshots
 ### 💻 Main Interface
-![App Screenshot](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-1.png)  
-![App Screenshot](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
+![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-1.png)  
+![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
 
 ### 📊 Prediction Output
-![Prediction Output](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Output.png)  
+![Prediction Output](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Output.png)  
 
 ---
 
