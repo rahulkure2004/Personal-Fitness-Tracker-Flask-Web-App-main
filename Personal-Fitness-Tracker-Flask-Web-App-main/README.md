@@ -87,11 +87,11 @@ python app.py
 
 ## 📷 Screenshots
 ### 💻 Main Interface
-![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-1.png)  
-![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
+![App Screenshot](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-1.png)  
+![App Screenshot](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
 
 ### 📊 Prediction Output
-![Prediction Output](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Output.png)  
+![Prediction Output](https://github.com/rahulkure547/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Output.png)  
 
 ---
 
@@ -111,14 +111,10 @@ python app.py
 
 ## 📞 Contact & Support
 🙋‍♂️ For queries or feature requests, feel free to reach out!  
-📧 Email: [yashtilekarki647@gmail.com](mailto:yashtilekarki647@gmail.com)  
-🔗 GitHub: [YashTilekar647](https://github.com/YashTilekar647)  
+📧 Email: [kurerahul547@gmail.com](mailto:yashtilekarki647@gmail.com)  
+🔗 GitHub: [rahulkure2004](https://github.com/rahulkure2004)  
 
 ---
 
 🎯 **Star ⭐ this repository if you found it helpful!** 🚀🔥
-
----
-**Number of Visitors**
-![Visitor Count](https://komarev.com/ghpvc/?username=vishalshep08&color=blue)
 
